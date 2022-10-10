@@ -1,0 +1,16 @@
+:root {
+    --primary-color: blue;
+    --secondary-color: red;
+}
+footer {
+    background-color: var(--primary-color);
+}
+section:first-child {
+    background-color: var(--primary-color);
+}
+body,
+body * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
