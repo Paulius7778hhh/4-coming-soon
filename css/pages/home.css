@@ -1,2 +1,6 @@
-
+.hero {
+    min-height: 300px;
+    height: 100vh;
+    max-height: 700px;
+}
 
