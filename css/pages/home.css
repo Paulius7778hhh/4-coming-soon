@@ -1,0 +1,40 @@
+body{
+    display: inline-block;
+    margin: 0;
+}
+.container {
+    display: inline-block;
+    width: 100%;
+    float: right;
+}
+.row{
+    display: inline-block;
+    width: 1000px;
+    float: left;
+    margin-left: calc(50% - 500px);
+
+}
+.row-shors {
+
+}
+.left-column{
+display: inline-block;
+float: left;
+width: 50%;
+}
+.right-column{
+
+}
+:root {
+    --primary-color: #03a9f4;
+    --secondary-color: #EA1E63:
+}
+section:first-child {
+    background-color: var(--secondary-color);
+}
+footer {
+    background-color: var(--primary-color);
+}
+.bg-secondary {
+    background-color: var(--secondary-color);
+}
