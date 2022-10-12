@@ -38,3 +38,8 @@ body {
     background-color: green;
     
 }
+@media (max-width:460px) { 
+    .row  
+    .row-short {
+        padding-left: 20px;}
+}
