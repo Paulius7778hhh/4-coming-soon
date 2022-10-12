@@ -1,0 +1,14 @@
+.socials > {
+    background-color: violet;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 100px;
+}
+.socials > .icon {
+font-size: 20px;
+}
+footer.container {
+    padding-top: 0;
+    text-align: center;
+}
